@@ -31,7 +31,7 @@
 
 <div style="display: flex; justify-content: left;">
 <a href="https://linkedin.com/in/roman-james/" target="_blank"><img align="left" alt="Roman James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="mailto:hello@romanjm.com" target="_blank"><img align="left" alt="hello@romanjm.com" width="32px" src="https://pngpix.com/images/hd/white-email-icon-transparent-background-3j7ook0nuhc8a3jt.jpg"/>]</a>
+<a href="mailto:hello@romanjm.com" target="_blank"><img align="left" alt="hello@romanjm.com" width="32px" src="https://pngpix.com/images/hd/white-email-icon-transparent-background-3j7ook0nuhc8a3jt.jpg"/></a>
 </div>
 
 <!--
