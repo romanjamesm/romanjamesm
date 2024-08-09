@@ -3,7 +3,7 @@
 ## 👨‍💻 Help Desk Projects:
 
 - **Windows Server 2016: PowerShell, Active Directory, and Exchange Server 2016**
-  - [Windows Server 2016 Home Lab](https://github.com/romanjamesm/Windows-Server-2016-Home-Lab)
+  - [Windows Server 2016 Home Lab](https://github.com/romanjamesm/Windows-Server-2016-Home-Lab?tab=readme-ov-file#windows-server-2016-home-lab)
 - **Jira ticketing system for issue tracking**
   - [Jira Home Lab](https://github.com/romanjamesm/Jira-Home-Lab)
  
